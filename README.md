@@ -4,6 +4,7 @@ The user can view the profiles of other users and propose them.
 Matches can be viewed as well. 
 
 After cloning the project, run execute the app.py file to start the app. One must have the necessary packages downloaded before executing the  project.
+Also download the font: https://fontsov.com/font/chaletlondonnineteeneighty40242.html
 
 ## Home Page
 
