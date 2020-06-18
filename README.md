@@ -3,6 +3,8 @@ A Python and Tkinter based basic Dating App that supports the feature of profile
 The user can view the profiles of other users and propose them.
 Matches can be viewed as well. 
 
+After cloning the project, run execute the app.py file to start the app. One must have the necessary packages downloaded before executing the  project.
+
 ## Home Page
 
 ![home](https://user-images.githubusercontent.com/48985763/84964312-6e44ce80-b129-11ea-9a5e-ddc16d67cdba.JPG)
